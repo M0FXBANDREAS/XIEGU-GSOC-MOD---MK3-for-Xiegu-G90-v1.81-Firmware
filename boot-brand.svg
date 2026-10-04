@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="600" viewBox="0 0 1024 600">
+<rect width="1024" height="600" fill="#07131e"/>
+<path d="M72 190H952M72 405H952" stroke="#234154" stroke-width="2"/>
+<text x="512" y="268" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-weight="bold" font-size="66" fill="#51e0d5">M0FXB</text>
+<text x="512" y="337" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-weight="bold" font-size="45" fill="#eff7ff">HamTech GSOC MOD</text>
+<text x="512" y="450" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="24" fill="#a5b8ca">V1.4beta · RX01</text>
+<text x="512" y="494" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="19" fill="#a5b8ca">Starting GSOC…</text>
+</svg>

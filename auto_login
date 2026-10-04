@@ -1,0 +1,4 @@
+#!/bin/sh
+# Not referenced by inittab; retained as a refusal stub.
+echo 'Hamtech SD receive-test image: update autologin is disabled.'
+exit 1
